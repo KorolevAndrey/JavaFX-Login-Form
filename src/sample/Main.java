@@ -44,17 +44,6 @@ public class Main extends Application {
         
         Scene scene = new Scene(root);
 
-      
-     //   primaryStage.setTitle("Hello World");
-     //   primaryStage.setScene(scene);
-       
-        //javafx.scene.image.ImageView img = new javafx.scene.image.ImageView();
-        
-//        primaryStage.setScene(new Scene(root, 310, 467));
-     //   primaryStage.show();
-
-
-
 
 
         primaryStage.initStyle(StageStyle.TRANSPARENT);
