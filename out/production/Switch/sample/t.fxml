@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.web.HTMLEditor?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="504.0" prefWidth="665.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+  <children>
+    <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ccc;" />
+    <Circle fill="DODGERBLUE" layoutX="368.0" layoutY="214.0" radius="69.0" stroke="BLACK" strokeLineCap="BUTT" strokeType="INSIDE" />
+    <HTMLEditor htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" layoutX="89.0" layoutY="268.0" prefHeight="200.0" prefWidth="506.0" />
+  </children>
+</AnchorPane>
